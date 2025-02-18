@@ -1,0 +1,193 @@
+{
+    "version": 1,
+    "enable": 2,
+    "songs": [
+        {
+            "id": "song1",
+            "name": "رمضان بيجمعنا",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song2",
+            "name": "اغنية رمضان كريم",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song3",
+            "name": "اغنية وحوي يا وحوي",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song4",
+            "name": "أفرحوا يا بنات",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song5",
+            "name": "العيلة الكبيرة",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song6",
+            "name": "المسحراتي",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song7",
+            "name": "جارى يا جارى",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song8",
+            "name": "رمضان في مصر حاجة تانية",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song9",
+            "name": "رمضان نور",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song10",
+            "name": "علقوا الزينة",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song11",
+            "name": "ماهر زين - رمضان جانا",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song12",
+            "name": "مرحب يا هلال",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song13",
+            "name": "هلا رشدي لمة وفوانيس",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song14",
+            "name": "قد جاءنا رمضان",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song15",
+            "name": "والله بعوده يا رمضان",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song16",
+            "name": "يا نور الهلال",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song17",
+            "name": "أغنية رمضان جانا",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song18",
+            "name": "افرحوا يا بنات يالا وهيصوا",
+            "removed": 0,
+            "enable": 0
+        },
+        {
+            "id": "song19",
+            "name": "رمضان جنه",
+            "removed": 0,
+            "enable": 0
+        }
+    
+    ],
+    "general": {
+        "reward_ad_d": 1,
+        "reward_ad_r": 1,
+        "show_download_btn": 0,
+        "reward_num_d": 3,
+        "reward_num_r": 3,
+        "show_hide_splash_open_app": 1,
+        "adDisplayConditionOpenApp": 1,
+        "show_hide_banner": 1,
+        "show_hide_banner_loadBackupAd": 0,
+        "showHideInterstitial": 1,
+        "showInterstitialWallpaperActivity": 1,
+        "showRewardedAdWallpaperActivity": 1,
+        "showNativeAdWallpaperActivity": 1,
+        "new_version_update": 1,
+        "show_update_cancel": 1,
+        "AdsSystem": 0,
+        "clicks": 5,
+        "admob_id": "ca-app-pub-6136191951157061~3496048992",
+        "banner": "ca-app-pub-6136191951157061/2486219653",
+        "interstitial": "ca-app-pub-6136191951157061/6950485950",
+        "RewardedAdAdUnitId": "ca-app-pub-6136191951157061/4324322612",
+        "OpenApplAdUnitId": "ca-app-pub-6136191951157061/3011240946",
+        "NativeAdIdUnitId": "",
+        "update_url": "https://play.google.com/store/apps/details?id=com.festival_Offline.SongsRamadan",
+        "update_text": "يوجد تحديث جديد الان ",
+        "update_button_text": "تحديث",
+        "close_button_text": "إغلاق",
+        "later_button_text": "لاحقًا",
+        "showActionButtonDeveloper": 0,
+        "show_whatsapp": 0,
+        "show_instagram": 0,
+        "show_facebook": 0,
+        "show_telegram": 0,
+        "show_email": 0,
+        "show_developer_image": 0,
+        "whatsapp_number": "+201283903497",
+        "instagram_username": "y90oussef",
+        "facebook_page_id": "mahrajanat2021",
+        "telegram_username": "Golden_Music_Apps",
+        "emailDeveloper": "ehab1996elsayed@gmail.com",
+        "developerInfoText": "مرحبا انا يوسف مطور تطبيقات اندريد ان كان لديك اي استفسار او طلب يمكنك التواصل معنا عن طريق مواقع التواصل الاجتماعي الموجوده بالسفل ",
+        "developer_image_url": "",
+        "chatId": "1204143333",
+        "telegramToken": "8060431579:AAEmKcIfRDiWwh4khwH7Y61exH5EaIoOMFI",
+        "backupAds": [
+            {
+                "imageUrl": "https://youssef-apps.com/img/songs/com.Golden_2024_Fares_Sukkar.Fares_Sukkar_2024_Golde.png",
+                "redirectUrl": "https://play.google.com/store/apps/details?id=com.Golden_2024_Fares_Sukkar.Fares_Sukkar_2024_Golde"
+            },
+            {
+                "imageUrl": "https://youssef-apps.com/img/songs/com.mahraganat2025.Fares_Sokar.png",
+                "redirectUrl": "https://play.google.com/store/apps/details?id=com.mahraganat2025.Fares_Sokar"
+            },
+            {
+                "imageUrl": "https://youssef-apps.com/img/Evaluation.png",
+                "redirectUrl": "https://play.google.com/store/apps/details?id=com.mahraganat2025.Mahraganat_2025_Red"
+            },
+            {
+                "imageUrl": "https://youssef-apps.com/img/songs/com.Golden_2024_Festivals.Mahraganat_2024_Golde.png",
+                "redirectUrl": "https://play.google.com/store/apps/details?id=com.Golden_2024_Festivals.Mahraganat_2024_Golde"
+            },
+            {
+                "imageUrl": "https://youssef-apps.com/img/songs/com.mahraganat2025.Eslam_Kabonga.png",
+                "redirectUrl": "https://play.google.com/store/apps/details?id=com.mahraganat2025.Eslam_Kabonga"
+            },
+            {
+                "imageUrl": "https://youssef-apps.com/img/songs/com.mahraganat2025.Eslam_Kabonga2.png",
+                "redirectUrl": "https://play.google.com/store/apps/details?id=com.mahraganat2025.Eslam_Kabonga"
+            }
+        ]
+    }
+}
