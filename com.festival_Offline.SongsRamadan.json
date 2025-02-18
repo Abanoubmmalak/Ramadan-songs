@@ -132,7 +132,7 @@
         "showInterstitialWallpaperActivity": 1,
         "showRewardedAdWallpaperActivity": 1,
         "showNativeAdWallpaperActivity": 1,
-        "new_version_update": 100,
+        "new_version_update": 1,
         "show_update_cancel": 1,
         "AdsSystem": 0,
         "clicks": 5,
